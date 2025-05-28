@@ -118,5 +118,5 @@ Cada produto deve conter os seguintes campos:
 
 * Não usar pacotes prontos de CRUD.
 * Não usar Admin Panels automáticos como Laravel Nova, Filament, etc.
-* O foco é demonstrar domínio do stack e boas práticas.
+* O foco é demonstrar domínio da stack e boas práticas.
 
